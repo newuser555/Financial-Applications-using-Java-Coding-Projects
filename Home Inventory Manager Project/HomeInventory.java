@@ -9,6 +9,7 @@ import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.awt.print.*;
+
 public class HomeInventory extends JFrame {
   JToolBar inventoryToolBar = new JToolBar();
   JButton newButton = new JButton(new ImageIcon("new.gif"));
