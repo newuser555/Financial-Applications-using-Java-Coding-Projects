@@ -1,7 +1,7 @@
 # Financial Applications using Java Internship Projects
 
-# Project 1
+# Project 2
 
-Consumer Loan Assistant Project
+Home Inventory Manager Project
 
 ![Screenshot (231)](./Screenshots/1.png)
